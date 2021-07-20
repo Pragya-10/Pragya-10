@@ -1,3 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/63574538/126315098-bcb690c4-b4d1-46f1-960a-1cbebae4f5e9.jpg)]()
+
+
+
+
 <h1 align="center">Hi 👋, I'm Pragya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India. And currently working on my skills to become a fullstack developer.</h3>
 
@@ -6,9 +11,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragya-10" alt="pragya-10" /></a> </p>
 
 
+
 - 🔭 I’m currently working on **Web Developement**
 
 - 🌱 I’m currently learning **Django, Rest, Flask, React, Go and MERN**
+
+<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/63574538/126313895-2e85b078-d603-457c-84ab-0ef851e0ced2.gif">
 
 - 🤝 I’m looking for help with **collaborate on Web Development**
 
@@ -28,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragya-10&show_icons=true&locale=en" alt="pragya-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragya-10&" alt="pragya-10" /></p>
+
+
+
+
+
+
