@@ -20,6 +20,8 @@
 
 - 🤝 I’m looking for help with **collaborate on Web Development**
 
+- 👨‍💻 All of my projects are available at [https://portfolio-pragyakumari.netlify.app/](https://portfolio-pragyakumari.netlify.app/)
+
 - 📫 How to reach me **pragyamishra10501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
